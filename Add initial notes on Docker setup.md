@@ -1,0 +1,1 @@
+Add initial notes on Docker setup
